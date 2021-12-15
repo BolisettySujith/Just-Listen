@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.5",
+    "lodash": "^4.17.21",
+    "next": "latest",
+    "next-auth": "^4.0.0-beta.7",
+    "next-images": "^1.8.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-nextjs-toast": "^1.2.5",
+    "react-toastify": "^8.1.0",
+    "react-video-seek-slider": "^4.0.16",
+    "recoil": "^0.5.2",
+    "spotify-web-api-node": "^5.0.2",
+    "tailwind-scrollbar-hide": "^1.1.6"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
