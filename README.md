@@ -3,7 +3,9 @@
 ## **Introduction** 👨‍💻
 It is a just a clone of spotify web player which can be used only to listen your music playlists of spotify.
 
-### **Built with** <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS" width="36" height="36" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="java" width="36" height="36" />
+### **Built with** 💻
+- [NextJS](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ### **API used** 📄️
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
